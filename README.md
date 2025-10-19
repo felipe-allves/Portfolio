@@ -1,16 +1,130 @@
-# React + Vite
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-seções">Seções</a>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias
 
-## React Compiler
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilos avançados com variáveis CSS
+- **JavaScript (ES6+)** - Interatividade e lógica
+- **React JS** - Componentização e gerenciamento de estado
+- **Vite** - Build tool rápido e eficiente
+- **React Icons** - Ícones SVG
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Projeto
+
+**Portfólio Felipe Alves** é um site moderno e responsivo que apresenta meu trabalho como desenvolvedor Frontend Junior.
+
+O objetivo é exibir meus projetos, certificados, habilidades e formas de contato de forma clara e profissional, com uma interface intuitiva e design contemporâneo.
+
+### Características principais:
+- Navegação responsiva com menu mobile
+- Componentes reutilizáveis em React
+- Design moderno com glassmorphism e gradientes
+- Efeitos hover e animações suaves
+- Layout 100% responsivo (mobile, tablet, desktop)
+- Performance otimizada com Vite
+
+---
+
+## 📋 Seções
+
+O portfólio está dividido em 6 seções principais:
+
+### Header
+- Navegação fixa com logo
+- Menu hamburger para dispositivos móveis
+- Efeitos visuais com backdrop blur
+
+### Hero
+- Apresentação pessoal com foto de perfil
+- Descrição da experiência e especialidades
+- Layout responsivo com imagem em destaque
+
+### Projects
+- Galeria de projetos com imagens
+- Descrição de cada projeto
+- Links diretos para repositórios no GitHub
+- Funcionalidade "Ver Mais Projetos"
+
+### Certificates
+- Exibição de certificados obtidos
+- Links para verificar certificados
+- Carregamento dinâmico de certificados
+
+### Knowledge
+- Tecnologias dominadas (HTML, CSS, JS, React, Bootstrap)
+- Ferramentas utilizadas (VS Code, Git, Figma)
+- Grid interativo com ícones
+
+### Footer
+- Seção de contato
+- Links para redes sociais (GitHub, LinkedIn, Instagram, Email)
+- Tooltips nos links sociais
+
+---
+
+## 📦 Como usar
+
+Depois de clonar ou baixar este repositório, abra o terminal e siga os passos:
+
+```bash
+# Instalar as dependências
+npm install
+
+# Iniciar o servidor de desenvolvimento
+npm run dev
+
+# Acesse no navegador
+http://localhost:5173
+```
+
+Para fazer build para produção:
+
+```bash
+# Gerar arquivos otimizados
+npm run build
+
+# Visualizar build localmente
+npm run preview
+```
+
+Projeto desenvolvido com [Vite](https://vitejs.dev/) para performance e agilidade no desenvolvimento com React.
+
+---
+
+## 🎨 Design e Estilo
+
+O projeto utiliza:
+- Variáveis CSS personalizadas para cores e temas
+- Glassmorphism com backdrop blur
+- Gradientes lineares e radiais
+- Animações suaves com transições CSS
+- Grid responsivo com `auto-fit` e `minmax()`
+- Ícones SVG do React Icons
+
+---
+
+## 📱 Responsividade
+
+O site foi desenvolvido com abordagem mobile-first e é totalmente responsivo em:
+- Smartphones (320px+)
+- Tablets (768px+)
+- Desktops (1024px+)
+
+---
+
+Feito com ❤️ por **[Felipe Alves](https://github.com/felipe-allves/)** — Obrigado por visitar este portfólio!
