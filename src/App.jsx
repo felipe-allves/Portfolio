@@ -7,6 +7,7 @@ import Hero from './assets/Components/Hero/Hero'
 import Projects from './assets/Components/Projects/Projects'
 import Certificates from './assets/Components/Certificates/Certificates'
 import Knowledge from './assets/Components/Knowledge/Knowledge'
+import Footer from './assets/Components/Footer/Footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
     <Projects/>
     <Certificates/>
     <Knowledge/>
+    <Footer/>
     </>
   )
 }
