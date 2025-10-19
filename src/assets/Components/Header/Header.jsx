@@ -34,10 +34,10 @@ function Header () {
                     <div className={`links ${menuOpen ? 'active' : ''}`}>
                         <ul>
                             <li><a href="#home" onClick={closeMenu}>Início</a></li>
-                            <li><a href="#projects" onClick={closeMenu}>Contato</a></li>
+                            <li><a href="#contact" onClick={closeMenu}>Contato</a></li>
                             <li><a href="#projects" onClick={closeMenu}>Projetos</a></li>
                             <li><a href="#certificates" onClick={closeMenu}>Certificados</a></li>
-                            <li><a href="#skills" onClick={closeMenu}>Habilidades</a></li>
+                            <li><a href="#Knowledge" onClick={closeMenu}>Habilidades</a></li>
                         </ul>
                     </div>
                 </div>

@@ -13,7 +13,7 @@ import './Knowledge.css'
 
 function Knowledge () {
     return(
-        <section className="knowledge">
+        <section id="Knowledge" className="knowledge">
             <h1 className="section-title">Conhecimentos</h1>
             <div className="knowledge-container">
                 <div className="knowledge-itens">
