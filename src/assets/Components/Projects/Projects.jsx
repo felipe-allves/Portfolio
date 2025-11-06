@@ -8,6 +8,7 @@ import horaInteligete from '../../images/Projects/site.png';
 import codeSnap from '../../images/Projects/site (2).png';
 import doceDelicia from '../../images/Projects/DoceDelicia.png'
 import codeDocs from '../../images/Projects/CodeDocs.png'
+import paletamestre from '../../images/Projects/PaletaMestre.png'
 
 function Projects() {
     const [showAllProjects, setShowAllProjects] = useState(false);
@@ -24,6 +25,12 @@ function Projects() {
             title: "CodeDocs",
             description: "Documentação completa e organizada das principais linguagens de programação, feita em React para facilitar seu aprendizado e consulta rápida.",
             link: "https://github.com/felipe-allves/CodeDocs"
+        },
+        {
+            img: paletamestre,
+            title: "PaletaMestre",
+            description: "Gerador de paletas de cores aleatorias para projetos, design, etc. Feito com intuito de ajudar quem quer cores rápidas.",
+            link: "https://github.com/felipe-allves/PaletaMestre"
         },
         {
             img: horaInteligete,
