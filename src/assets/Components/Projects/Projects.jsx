@@ -8,7 +8,7 @@ import horaInteligete from '../../images/Projects/site.png';
 import codeSnap from '../../images/Projects/site (2).png';
 import doceDelicia from '../../images/Projects/DoceDelicia.png'
 import codeDocs from '../../images/Projects/CodeDocs.png'
-import paletamestre from '../../images/Projects/PaletaMestre.png'
+import paletamestre from '../../images/Projects/paletamestre.png'
 
 function Projects() {
     const [showAllProjects, setShowAllProjects] = useState(false);
