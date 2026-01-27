@@ -42,7 +42,7 @@ O objetivo é exibir meus projetos, habilidades e formas de contato de forma cla
 
 ## 📋 Seções
 
-O portfólio está dividido em 6 seções principais:
+O portfólio está dividido em 7 seções principais:
 
 ### Header
 - Navegação fixa com logo
