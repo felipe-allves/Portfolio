@@ -23,9 +23,9 @@
     --secondary-800: #0026f5;
     --secondary-900: #121a5a;
 
+    --tertiary-100: #25D366;
+    --tertiary-200: #20bd5a;
     --tertiary-700: #8a63ff;
-    --tertiary-800: #6b3dff;
-    --tertiary-900: #4D00E0;
 
     --button-color: #2f9aff;
 
@@ -48,7 +48,18 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Space Grotesk" , sans-serif;
 }
 
+span {
+    background-image: linear-gradient(to right, var(--secondary-700), var(--primary-100));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 section {
     padding-top: 20.5vh;
     margin-bottom: 3px;
+}
+
+html {
+    scroll-behavior: smooth;
 }
