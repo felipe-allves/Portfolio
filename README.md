@@ -11,6 +11,10 @@
 
 ---
 
+## 📷 Preview
+![Preview do projeto](public/portfolio-v-new.png)
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
