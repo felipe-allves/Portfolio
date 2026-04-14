@@ -18,6 +18,14 @@ const projects = [
     liveUrl: "https://paletamestre.netlify.app",
     repoUrl: "https://github.com/felipe-allves/PaletaMestre",
   },
+  {
+    title: "Doce Delícia",
+    description: "Doce Delícia é um projeto fictício de landing page para uma confeitaria artesanal.",
+    tags: ["React", "Vite", "CSS"],
+    image: "/docedelicia.png",
+    liveUrl: "https://docedeliciaa.netlify.app/",
+    repoUrl: "https://github.com/felipe-allves/DoceDelicia-Confeitaria-Artesanal-em-React",
+  },
 ];
 
 const Projects = () => {
