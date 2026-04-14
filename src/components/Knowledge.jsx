@@ -19,7 +19,7 @@ const audiovisual = [
   "Edição de Vídeo", "CapCut"
 ];
 
-const learning = ["Python", "Java"];
+const learning = ["Python", "Java", "React Native"];
 
 const Knowledge = () => {
   return (
