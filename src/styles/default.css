@@ -8,28 +8,33 @@
 }
 
 :root {
-    /*Colors*/
-    --primary-100: #00e1ff;
-    --primary-200: #00c7eb;
-    --primary-300: #00a9ca;
-    --primary-400: #0098af;
-    --primary-500: #008fa5;
-    --primary-600: #007486;
-    --primary-700: #006372;
-    --primary-800: #0021251f;
-    --primary-900: #00a8c2;
+    --black: #030507ff;
+    --coffee-bean: #180E07ff;
+    --camel: #C5985Eff;
+    --deep-walnut: #513926ff;
+    --sunlit-clay: #D7A767ff;
 
-    --secondary-700: #1a3aff;
-    --secondary-800: #0026f5;
-    --secondary-900: #121a5a;
+    --primary-100: #D7A767ff;
+    --primary-200: #C5985Eff;
+    --primary-300: #B8885Bff;
+    --primary-400: #AA7854ff;
+    --primary-500: #9C6847ff;
+    --primary-600: #8E583Dff;
+    --primary-700: #7A5428ff;
+    --primary-800: #513926ff;
+    --primary-900: #180E07ff;
+
+    --secondary-700: #C5985Eff;
+    --secondary-800: #B8885Bff;
+    --secondary-900: #7A5428ff;
 
     --tertiary-100: #25D366;
     --tertiary-200: #20bd5a;
     --tertiary-700: #8a63ff;
 
-    --button-color: #2f9aff;
+    --button-color: #D7A767ff;
 
-    --back-dark: rgb(0, 0, 27);
+    --back-dark: #030507ff;
     --text-dark: #fff;
     --text-light: #000;
     --text-secondary: #a1a1a1;

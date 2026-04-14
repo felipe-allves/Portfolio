@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { MessageCircle, FileText } from "lucide-react";
-import photo from "../assets/images/PhotoProfile.jpg"
+import photo from "../assets/images/PhotoProfile.PNG"
 
 const Hero = () => {
   return (
