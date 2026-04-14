@@ -5,19 +5,18 @@ const skills = [
   { name: "CSS3 / Tailwind", level: 80 },
   { name: "JavaScript", level: 65 },
   { name: "React", level: 65 },
-  { name: "Node.js / Express", level: 50 },
-  { name: "Bootstrap", level: 20 },
+  { name: "Node.js", level: 50 },
 ];
 
 const technologies = [
-  "Git", "GitHub", "VS Code", "Vite", "REST APIs", 
+  "Git", "GitHub", "VS Code", "Vite", 
   "Netlify", "Figma", "Cursor Composer", "React Router DOM",
-  "LocalStorage", "Context API", "Responsive Design"
+  "Responsive Design", "Windows", "Linux"
 ];
 
 const audiovisual = [
   "Captura de Foto", "Captura de Vídeo", "Iluminação", 
-  "Edição de Vídeo", "Pós-produção", "CapCut"
+  "Edição de Vídeo", "CapCut"
 ];
 
 const learning = ["Python", "Java"];
